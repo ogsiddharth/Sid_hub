@@ -1,0 +1,65 @@
+[
+  {
+    "title": "BMS Suraksha App",
+    "description": "A safety and emergency assistance app for college students.",
+    "live": "https://bms-suraksha-app.netlify.app",
+    "github": "https://github.com/ogsiddharth/BMS-Suraksha",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Pixel Poet App",
+    "description": "An AI-powered creative platform for generating art and visuals.",
+    "live": "https://pixel-poet-vibes.lovable.app",
+    "github": "https://github.com/ogsiddharth",
+    "tech": ["AI", "JavaScript"]
+  },
+  {
+    "title": "Workspace App",
+    "description": "Task management and workshop organizer app.",
+    "live": "https://nxttodo.netlify.app",
+    "github": "https://github.com/ogsiddharth",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Alpha Clothing",
+    "description": "Personal brand website for Alpha Clothing.",
+    "live": "https://personalbrand-56cbe.web.app",
+    "github": "https://github.com/ogsiddharth/TEAM-APLHA",
+    "tech": ["Firebase", "HTML", "CSS"]
+  },
+  {
+    "title": "My Portfolio",
+    "description": "Personal portfolio website showcasing projects and skills.",
+    "live": "https://ogsiddharth.github.io/MY-PORTFOLIO/",
+    "github": "https://github.com/ogsiddharth/MY-PORTFOLIO",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Astha General Store",
+    "description": "E-commerce website for a general store.",
+    "live": "https://ogsiddharth.github.io/AsthaGeneralStore-byOgSiddharth-/",
+    "github": "https://github.com/ogsiddharth/AsthaGeneralStore-byOgSiddharth-",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Weather App",
+    "description": "Real-time weather application with responsive UI.",
+    "live": "https://ogsiddharth.github.io/Weather/",
+    "github": "https://github.com/ogsiddharth/Weather",
+    "tech": ["Weather API", "JavaScript"]
+  },
+  {
+    "title": "Music App",
+    "description": "Music player with playlists and modern interface.",
+    "live": "https://ogsiddharth.github.io/music-melody/",
+    "github": "https://github.com/ogsiddharth/music-melody",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Green Hut Restaurant",
+    "description": "Restaurant website with menu, gallery and contact section.",
+    "live": "https://ogsiddharth.github.io/GreenHut_by_og/",
+    "github": "https://github.com/ogsiddharth/GreenHut_by_og",
+    "tech": ["HTML", "CSS", "JavaScript"]
+  }
+]
