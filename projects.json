@@ -1,10 +1,35 @@
 [
   {
-    "title": "BMS Suraksha App",
-    "description": "A safety and emergency assistance app for college students.",
-    "live": "https://bms-suraksha-app.netlify.app",
-    "github": "https://github.com/ogsiddharth/BMS-Suraksha",
-    "tech": ["HTML", "CSS", "JavaScript"]
+    "title": "Wallixan Premium Wallpapers",
+    "description": "Download premium wallpapers for Desktop and Mobile devices.",
+    "live": "https://wallixa.netlify.app",
+    "github": "https://github.com/ogsiddharth/Wallixan-by-sid",
+    "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Firebase Firestore", "Cloudinary", "JavaScript", "Git & GitHub", "Netlify"]
+  },
+  {
+    "title": "Alpha Clothing",
+    "description": "Personal brand website for Alpha Clothing.",
+    "live": "https://personalbrand-56cbe.web.app",
+    "github": "https://github.com/ogsiddharth/TEAM-APLHA",
+    "tech": ["Firebase", "HTML", "CSS"]
+  },
+  {
+    "title": "RAAHI — Nostalgic Mountain Journeys & Music",
+    "description": "Cinematic mountain wallpaper slideshow with Spotify music.",
+    "live": "https://raahi-by-wallixa.ai.studio",
+    "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS", "JavaScript"]    
+  },
+  {
+    "title": "SIDHUB | Siddharth Maurya's Link Hub",
+    "description": "Personal portfolio showcasing AI and web projects.",
+    "live": "https://sid-link-hub.netlify.app/",
+    "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Firebase Firestore", "Cloudinary", "JavaScript", "Git & GitHub", "Netlify"]
+  },
+  {
+    "title": "FinPilot AI - Your Personal AI Financial Assistant",
+    "description": "Offline-first AI personal finance tracker with insights.",
+    "live": "alpha-finance-tracker.netlify.app",
+    "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS", "OpenAI API", "JavaScript"]
   },
   {
     "title": "Pixel Poet App",
@@ -21,11 +46,18 @@
     "tech": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "title": "Alpha Clothing",
-    "description": "Personal brand website for Alpha Clothing.",
-    "live": "https://personalbrand-56cbe.web.app",
-    "github": "https://github.com/ogsiddharth/TEAM-APLHA",
-    "tech": ["Firebase", "HTML", "CSS"]
+    "title": "VELOCITY - Experience the Automobile",
+    "description": "Immersive 3D automotive showroom with interactive car experiences.",
+    "live": "https://velocity-showroom-five.vercel.app",
+    "tech": ["Next.js 16", "React Three Fiber", "Three.js", "Tailwind CSS", "TypeScript", "Draco Compression"]
+    
+  },
+  {
+    "title": "BMS Suraksha App",
+    "description": "A safety and emergency assistance app for college students.",
+    "live": "https://bms-suraksha-app.netlify.app",
+    "github": "https://github.com/ogsiddharth/BMS-Suraksha",
+    "tech": ["HTML", "CSS", "JavaScript"]
   },
   {
     "title": "My Portfolio",
